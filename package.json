@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "echo 'Skipping linting'",
-    "test": "next lint"
+    "test": "next lint --no-interactive"
 
   },
   "dependencies": {
